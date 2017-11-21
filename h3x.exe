@@ -1,0 +1,2148 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+	
+	<script src="https://resources.enjin.com/1510611955/themes/v2/js/system/security.js" type="text/javascript"></script>
+	
+		<meta name="description" content="" >
+<meta name="keywords" content="mark is gay" >
+<meta name="robots" content="INDEX, FOLLOW" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta http-equiv="Content-Language" content="en-US" >
+<meta name="game" content="Minecraft" >
+<meta name="game" content="MC" ><title>Home - H3X-Z3</title>		
+    <!-- OpenGraph Protocol -->
+    <meta property="og:title" content="Home - H3X-Z3" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://H3X-Z3.enjin.com" />
+    <meta property="og:image" content="https://s3.amazonaws.com/files.enjin.com/1224197/site_logo/avatar.png" />
+    <meta property="og:description" content="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="H3X and Z3 Clan" />
+
+    
+				
+	
+    			
+			
+	<link href="/" rel="canonical" >
+<link href="https://resources.enjin.com/1465083538/themes/core/js/library/markitup/skins/enjin/style.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1492531637/themes/v2/css/mentions.input.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://h3x-z3.enjin.com/assets/201711202018/themes/core/css/modules/menu-style.php?preview=0&amp;preset_id=38369427&amp;cache=201711202018-1511238331" media="screen" rel="stylesheet" type="text/css" title="menu-css" >
+<link href="http://h3x-z3.enjin.com/assets/1498732395/themes/core/css/core.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1509365610/themes/core/css/bbcode.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1511030610/themes/core/css/styles.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1465083538/themes/v2/css/system/user_tray.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1492532467/admin/theme/css/teamspeak/tree.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1465083537/themes/core/css/modules/mumble.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1510770970/platform/react.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://h3x-z3.enjin.com/assets/1511227127/merged/default_fonts.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="http://h3x-z3.enjin.com/assets/201711202018/themes/core/css/theme.php?site_id=1224197&amp;tag_ts=1510815930&amp;cache=201711202018-1274158169&amp;theme=2025" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://resources.enjin.com/1465083537/themes/core/css/widthbugfix.css" media="screen" rel="stylesheet" type="text/css" >	<style type="text/css" media="screen">
+<!--
+
+-->
+</style>	<script type="text/javascript" src="https://resources.enjin.com/1511227127/merged/default_layout.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1511225189/themes/core/js/core.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1489581540/themes/core/js/library/markitup/jquery.markitup.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1510611955/themes/core/js/library/markitup/sets/bbcode/set.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083537/themes/core/js/editor.inline.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/system/wall.system.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/library/jquery.expander.min.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/system/site.wall.js"></script>
+<script type="text/javascript">
+    //<!--
+    
+var url_getposts = '/home/m/46133048/site/1224197/op/getposts';
+Enjin_Core.is_admin = 'false';
+
+$(document).ready(function() {
+	var wall = new Enjin_Wall_System($('#sitewall-679950456'), '/ajax.php?s=sitewall&wall_site_id=1224197', {
+		user_id: null,
+		site_id: 1224197	});
+});
+
+
+    //-->
+</script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/modules/membersonline.js"></script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function() {
+	new Module_MembersOnline(46131448, 0);	
+});
+    //-->
+</script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/v2/js/lib/underscore.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/v2/js/lib/mentions.input.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/v2/js/lib/caret.position.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1472503293/themes/core/js/modules/news.js"></script>
+<script type="text/javascript">
+    //<!--
+    var news_width_38332248 = 560;
+    //-->
+</script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/modules/poll.js"></script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function() {
+	new Enjin_Module_Poll({
+		preset_id: 46131530,
+		polls: [{"preset_id":"46131530","poll_id":"87828","question":"EmnasH3X Player of the Week","number_votes":"19","status":"1","option_multiple":"0","option_close":"0","option_results_vote":"0","ordering":"1","can_vote":true,"answers":{"1":{"preset_id":"46131530","poll_id":"87828","option_id":"1","option_value":"QemnasH3X","number_votes":"0","ordering":"0","percent":0},"2":{"preset_id":"46131530","poll_id":"87828","option_id":"2","option_value":"VemnasH3X","number_votes":"2","ordering":"1","percent":11},"3":{"preset_id":"46131530","poll_id":"87828","option_id":"3","option_value":"ZemnasH3X","number_votes":"2","ordering":"2","percent":11},"4":{"preset_id":"46131530","poll_id":"87828","option_id":"4","option_value":"XemnasH3X","number_votes":"4","ordering":"3","percent":21},"5":{"preset_id":"46131530","poll_id":"87828","option_id":"5","option_value":"XremnasH3X","number_votes":"1","ordering":"4","percent":5},"6":{"preset_id":"46131530","poll_id":"87828","option_id":"6","option_value":"ZremnasH3X","number_votes":"4","ordering":"5","percent":21},"7":{"preset_id":"46131530","poll_id":"87828","option_id":"7","option_value":"YemnasH3X","number_votes":"0","ordering":"6","percent":0},"8":{"preset_id":"46131530","poll_id":"87828","option_id":"8","option_value":"MemnasH3X","number_votes":"0","ordering":"7","percent":0},"9":{"preset_id":"46131530","poll_id":"87828","option_id":"9","option_value":"CemnasH3X","number_votes":"6","ordering":"8","percent":32}},"option_close_days":"","option_close_time":""}],
+		data: {"preset_id":"46131530","display":"all","option_results":"0","option_results_vote":"1"}	});
+});
+    //-->
+</script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/modules/textslider-marquee.js"></script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function() {
+
+    var element_text = ".textslider-text-46131306";
+    var element_box = ".textslider-box-46131306";
+
+    $(element_box).css("background-color", "transparent");
+    $(element_text).css("color", "#00ffcc");
+    $(element_box).css("border-radius", "3px");
+    $(element_box).css({"padding":"22px 0px", });
+    $(".textslider-box-46131306 a").css("color","#000000");
+    $(".textslider-box-46131306 .item-separator").css("color", "Transp");
+    $(".textslider-text a:link").css("text-decoration","none");
+    $(".textslider-text a").attr("target","_blank");
+
+    //var scroller = $('.textslider-text'); // element(s) to scroll
+    var scrolling_velocity = 9000; // 1-99
+    var scrolling_from = "left"; // 'right' or 'left'
+    var pause_toggle = 0; // 1 / 0
+    var duplicate = false // 1 / 0
+
+    /*****
+    ** Start the scroller
+    *****/
+    $(element_text).marquee({
+        duration: scrolling_velocity,
+        direction: scrolling_from,
+        duplicated: duplicate,
+        gap: 50,
+        delayBeforeStart: 500
+    });
+
+    /*****
+    ** Pause option
+    *****/
+    if (pause_toggle == 1) {
+        $(element_box).each(function() {
+            $(this).hover(function() {
+                $(this).children(element_text).trigger("pause");
+            }, function() {
+                $(this).children(element_text).trigger("resume");
+            });
+        });
+    }
+
+});
+    //-->
+</script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083536/admin/v3/js/plugins/bootstrap.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/modules/menu.js"></script>
+<script type="text/javascript">
+    //<!--
+    // define variables if need be
+if (typeof submenu_effect === 'undefined') var submenu_effect = {};
+if (typeof submenu_effect_speed === 'undefined') var submenu_effect_speed = {};
+if (typeof submenu_button_effect_speed === 'undefined') var submenu_button_effect_speed = {};
+if (typeof open_submenu_action === 'undefined') var open_submenu_action = {};
+if (typeof button_gap_distance_subbut === 'undefined') var button_gap_distance_subbut = {};
+if (typeof gapl_c_hs === 'undefined') var gapl_c_hs = {};
+if (typeof gapr_c_hs === 'undefined') var gapr_c_hs = {};
+if (typeof gap_hs_image === 'undefined') var gap_hs_image = {};
+if (typeof gap_image === 'undefined') var gap_image = {};
+if (typeof gapl_c === 'undefined') var gapl_c = {};
+if (typeof gapr_c === 'undefined') var gapr_c = {};
+if (typeof menu_position === 'undefined') var menu_position = {};
+
+// array to find out options per module
+submenu_effect[105763] = "slide";
+submenu_effect_speed[105763] = "fast";
+submenu_button_effect_speed[105763] = "250";
+open_submenu_action[105763] = "hover";
+button_gap_distance_subbut[105763] = "1";
+gapl_c_hs[105763] = "";
+gapr_c_hs[105763] = "";
+gap_hs_image[105763] = "";
+gap_image[105763] = "";
+gapl_c[105763] = "rgba(255,255,255,.70)";
+gapr_c[105763] = "rgba(148,148,148,1)";
+menu_position[105763] = "self";
+    //-->
+</script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/library/jstorage.js"></script>
+<script type="text/javascript" src="https://resources.enjin.com/1465083538/themes/core/js/library/date.js"></script>
+<script type="text/javascript">
+    //<!--
+    
+    var current_session_user_id = 0;
+    var current_session_csrf_token = "";
+	var current_page_id = 11034348;
+    Enjin_Core.site_id = 1224197;
+
+        //-->
+</script>
+    <!-- Universal Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        // enjin tracking
+        ga('create', 'UA-6028401-5', 'auto');
+        ga('send', 'pageview');
+
+            </script>
+        
+</head>
+
+<body class=" 
+    dark-theme fixed" 
+    data-dnsme-update-flag="">
+
+
+
+
+
+<div class="body-wrap-2"><div class="body-wrap-3">
+
+
+
+<div id="page">
+	<div class="page-outer-left"></div>
+	<div class="page-outer-right"></div>
+	<div id="page-wrap">
+		<div class="fixed_height_elem" id="above-site"></div>
+		<div id="site-body">
+
+			<div class="fixed_height_elem"><table class="section-collection"><tr class="top">
+			<td class="section-border"><div class="decorator-box"></div></td>
+				<td id="section-header"
+		class="section-holder section-width-large"
+		style=""
+		data-width="1030"
+	>
+		<div class="section">
+<div id='enjin-bar'>
+
+	<div class='right'>
+
+		
+			<!-- Login / Register -->
+			<a href="/login" rel="nofollow">Login</a>
+						<span class='divider'>|</span><a href='/login/do/register' rel='nofollow'>Register</a>
+			
+		
+	</div>
+
+	<div class='left'>
+
+		<!-- Site name -->
+					<a href='/'>H3X and Z3 Clan</a>
+		
+		<!-- Voice -->
+		
+		<!-- Site info -->
+		<span class='divider'>|</span><a href='/page/1224197'>Site Info</a>
+		<!-- Admin dropdown / Upgrade site -->
+		
+		<!-- Social -->
+					<div id='enjin-bar-likes'>
+
+				<!-- Enjin forums / All other websites -->
+				<span class="fb-like-site"><fb:like href="http://h3x-z3.enjin.com" send="false" layout="button_count" width="100" show_faces="false"></fb:like></span><span class="gplus-like-site"><g:plusone size="medium" href="http://h3x-z3.enjin.com"></g:plusone></span><a href="https://twitter.com/share" class="twitter-share-button twitter-like-site" data-url="http://h3x-z3.enjin.com"></a>
+				<!-- Site likes -->
+				
+			</div>
+		
+	</div>
+</div>		      <div class=" container_spacer first">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class=" with-header with-footer first" data-container-id="54862617" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                                                            </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                          						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      						          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last menu_mod_container">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										
+<div class="m_hmenu_v2 cust105763">
+    <div class="outer-nav-border">
+
+        <div class="menu-bg-left"></div>
+        <div class="menu-bg-right"></div>
+
+        <div class="first-level-items ul">
+
+            <div class="auto-position-container">
+
+                                
+                <div class="menu-margin-left"></div>
+
+                                <div class="gap first-gap">
+                    <span class="gap-l"></span>
+                    <span class="gap-r"></span>
+                </div>
+
+                
+                                        
+                                                                                                        <div data-id="14994026" class="li level-1 button-selected  " >
+                                <a href="/home" target="_self">
+                                                                        Home                                </a>
+                            </div>
+                            
+                                                
+                    
+                
+                                        
+                                                                                                        <div data-id="17853011" class="li level-1   " >
+                                <a href="/staff" target="_self">
+                                                                        Staff                                </a>
+                            </div>
+                            
+                                                
+                    
+                
+                                        
+                                                                                                        <div data-id="16906825" class="li level-1   " >
+                                <a href="/application" target="_self">
+                                                                        Applications                                </a>
+                            </div>
+                            
+                                                
+                    
+                
+                                        
+                                                
+                    
+                
+                                        
+                                                                                                        <div data-id="15039613" class="li level-1   " >
+                                <a href="/training" target="_self">
+                                                                        Training                                </a>
+                            </div>
+                            
+                                                
+                    
+                
+                                        
+                                                                                                        <div data-id="14994041" class="li level-1   " >
+                                <a href="/forum" target="_self">
+                                                                        Forums                                </a>
+                            </div>
+                            
+                                                
+                    
+                
+                                        
+                                                                                                        <div data-id="15657268" class="li has_submenu level-1   " >
+                                <div class="second-level-bridge"></div>
+                                <a href="javascript:;" target="_self">
+                                                                        Rosters<span class="dropdown-icon caret"></span>
+                                </a>
+                                <div class="second-level-items ul"><div class="outer-sub-border">
+
+                                                                        
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="17937665" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/h3xmembers" target="_self">
+                                                                                                                        H3X Roster                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="14994130" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/z3members" target="_self">
+                                                                                                                        Z3 Roster                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="17937043" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/a1roster" target="_self">
+                                                                                                                        A1 Roster                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="16047390" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/superpaintballroster" target="_self">
+                                                                                                                        Super Paintball Roster                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="16515622" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/SkywarsRoster" target="_self">
+                                                                                                                        Skywars Roster                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                                                    </div></div>
+                            </div>
+
+                                                                                
+                    
+                
+                                        
+                
+                                        
+                
+                                        
+                
+                                        
+                
+                                        
+                
+                                        
+                                                                                                        <div data-id="18000427" class="li has_submenu level-1   " >
+                                <div class="second-level-bridge"></div>
+                                <a href="javascript:;" target="_self">
+                                                                        More<span class="dropdown-icon caret"></span>
+                                </a>
+                                <div class="second-level-items ul"><div class="outer-sub-border">
+
+                                                                        
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="17933893" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/support" target="_self">
+                                                                                                                        Support                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="17996778" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/h3xscrimmages" target="_self">
+                                                                                                                        H3X 5v5&#039;s                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                    
+                                        
+                                                                                                                                        <div data-id="18077761" class="li level-2" >
+                                                    <div class="second-level-text">
+                                                        <a href="/otherclans" target="_self">
+                                                                                                                        Clans Owned by Hexxel                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                                                                        
+                                        
+                                                                    </div></div>
+                            </div>
+
+                                                                                
+                    
+                
+                                        
+                
+                                        
+                
+                                        
+                
+                                                    <div class="back-widgets widgets">
+                                            </div>
+                            </div>
+        </div>
+    </div>
+</div>										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+				      <div class=" container_spacer">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+				<div class="special_container with-header with-footer"><style>
+    .textslider-box {
+        height: 20px;
+        overflow: hidden;
+        white-space:nowrap;
+        position: relative;
+    }
+    .textslider-text {
+        overflow: hidden;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0px;
+        line-height: 20px;
+    }
+</style>
+
+<div class="textslider-box textslider-box-46131306">
+    <div class="textslider-text textslider-text-46131306" style="font-size: 22px;">
+        Welcome to the H3X/Z3 Clan Official Website!<span class='item-separator'> </span>Join the largest paintballing clan on mineplex!<span class='item-separator'> </span>Click the Applications tab to join now!    </div>
+</div>
+
+</div>
+
+
+				      <div class=" container_spacer">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header with-footer last" data-container-id="54595043" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                                                            </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										
+<div class="m_poll m_poll-46131530">
+	<div class="panel-title">
+		<div class="title"></div>
+		<div class="more-info"></div>
+	</div>
+	<div class="separator">
+		<div class="s1"><!--  --></div>
+		<div class="s2"><!--  --></div>
+	</div>
+	<div class="panel-data">
+		<div class="panel-view">
+			<div class="panel-items">			
+			</div>
+			
+			<div class="panel-info">				
+				<div class='element_smallbutton button-vote'><div class='l'><!-- --></div><div class='r'><!-- --></div><input type='button' value='Vote' onclick="Enjin_Module_Poll.getInstance('46131530').vote();"></div>
+				<div class='element_smallbutton button-results'><div class='l'><!-- --></div><div class='r'><!-- --></div><input type='button' value='Results' onclick="Enjin_Module_Poll.getInstance('46131530').results();"></div>
+			</div>
+		</div>
+		
+		<div class="panel-voted">
+			<div class="panel-items">
+			</div>
+			
+			<div class="panel-info">
+				<div class="count-users">
+					<span class="number">0</span> user<span class="plural">s</span> voted
+				</div>
+				<div class='element_smallbutton button-back'><div class='l'><!-- --></div><div class='r'><!-- --></div><input type='button' value='Back' onclick="Enjin_Module_Poll.getInstance('46131530').voteBack();"></div>
+				<div class="clearing"><!--  --></div>
+			</div>
+		</div>
+	</div>
+		<div class="separator nav-separator">
+		<div class="s1"><!--  --></div>
+		<div class="s2"><!--  --></div>
+	</div>
+	<div class="panel-nav">
+		<div class="right">
+			<a href="javascript:void(0);" onclick="Enjin_Module_Poll.getInstance('46131530').linkNext();">Next Poll &raquo;</a>
+		</div>
+		<div class="left">
+			<a href="javascript:void(0);" onclick="Enjin_Module_Poll.getInstance('46131530').linkPrevious();">&laquo; Prev Poll</a>
+		</div>
+		<div class="clearing"><!--  --></div>		
+	</div>
+	</div>
+
+
+<div id="m-poll-template-voted-item" class="item">
+	<div class="label">other</div>
+	<div class="panel-progress">
+		<div class="percent-number">10%</div>
+		<div class="progress-bar">
+			<div class="playout base">
+				<div class="pr"><!--  --></div>
+				<div class="pl"><!--  --></div>
+				<div class="pc">
+					<div class="selected" style="width: 10%"><!--  --></div>					
+				</div>						
+			</div>
+		</div>
+		<div class="clear"><!--  --></div>	
+	</div>
+</div>
+
+<div id="m-poll-template-view-item" class="item">
+	<div class="input"></div>
+	<div class="msg"></div>
+	<div class="clearing"><!--  --></div>
+</div>
+
+										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+		            		      <div class=" container_spacer last">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		        <div class="middle"><!--  --></div>
+		      </div>
+                        <div class='clearing'><!--  --></div>
+		</div><!-- .section -->
+	</td>
+		<td class="section-border"><div class="decorator-box"></div></td>
+	</tr>
+</table><!-- .section-collection -->
+</div><!-- -->
+	<div class="fixed_height_elem"><table class="section-collection"><tr class="top">
+			<td class="section-border"><div class="decorator-box"></div></td>
+				<td id="section-left"
+		class="section-holder section-width-small"
+		style="width: 237px;"
+		data-width="237"
+	>
+		<div class="section">		      <div class=" container_spacer first">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header with-footer first" data-container-id="46330929" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                        Player of the Week                                    </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										<div class="m_userspotlight">
+<div class="user">
+	<div class="username"><a href='/profile/17988004'  class='element_username tag-1755135'>GodlyZ3</a>   <span class="nameicons"><span class="icon_microtag" title="ADMIN" style="cursor: default; color: #FFFFFF; background-color: #5C382D; border: 1px solid none; border-radius: 2px;">ADMIN</span></span></div>
+	
+	<div  class="element_avatar simple avatar"><a  data-minitooltip="GodlyZ3" data-minitooltip-userid="17988004" href="http://H3X-Z3.enjin.com/profile/17988004"><img src="https://cravatar.eu/helmavatar/GodlyZ3/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/avatar.png';" width="175" height="175"></a></div></div>
+
+<div class="message">A1 Member of the week</div>
+
+</div>
+										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+				      <div class=" container_spacer">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header with-footer" data-container-id="54596555" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                                                            </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										<div class="m_recentlyactive m_memberslatest">
+			<div class="element_smalltitle">
+			<div class="left"><!--  --></div>
+			<div class="right"><!--  --></div>
+			<div class="title"><div class="mask">Recent visitors</div></div>
+		</div>
+		
+	
+		<div class="user first">
+		<div  class="element_avatar simple small"><a  data-minitooltip="Kay ♡" data-minitooltip-userid="11387244" href="http://H3X-Z3.enjin.com/profile/11387244"><img src="https://assets-cloud.enjin.com/users/11387244/avatar/small.1510708758.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/11387244'  class='element_username tag-1807265'>KaylaH3X</a>  			<div class="registered">active 15 mins ago</div>
+		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="HeyyItsAdam" data-minitooltip-userid="12611221" href="http://H3X-Z3.enjin.com/profile/12611221"><img src="https://cravatar.eu/helmavatar/HeyyItsAdam/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/12611221'  class='element_username tag-1826134 tag-1741316'>HeyyItsAdam</a>  			<div class="registered">active 52 mins ago</div>
+		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="GodlyZ3" data-minitooltip-userid="17988004" href="http://H3X-Z3.enjin.com/profile/17988004"><img src="https://cravatar.eu/helmavatar/GodlyZ3/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/17988004'  class='element_username admin tag-1755135'>GodlyZ3</a>   <span class="nameicons"><span class="icon_microtag" title="a" style="cursor: default; color: #000000; background-color: #FFFF00; border: 1px solid none; border-radius: 2px;">a</span><span class="icon_microtag" title="ADMIN" style="cursor: default; color: #FFFFFF; background-color: #5C382D; border: 1px solid none; border-radius: 2px;">ADMIN</span><span class="icon_microtag" title="o" style="cursor: default; color: #000000; background-color: #00FF00; border: 1px solid none; border-radius: 2px;">o</span></span>			<div class="registered">active 1 hour ago</div>
+		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="Xytrum" data-minitooltip-userid="15464863" href="http://H3X-Z3.enjin.com/profile/15464863"><img src="https://cravatar.eu/helmavatar/Xytrum/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/15464863'  class='element_username'>Xytrum</a>  			<div class="registered">active 2 hours ago</div>
+		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="Hexxel25" data-minitooltip-userid="18307636" href="http://H3X-Z3.enjin.com/profile/18307636"><img src="https://assets-cloud.enjin.com/users/18307636/avatar/small.1509868805.jpeg" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/18307636'  class='element_username'>Hexxel25</a>  			<div class="registered">active 3 hours ago</div>
+		</div>
+	</div>
+	</div>										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+				      <div class=" container_spacer">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header with-footer last" data-container-id="54594724" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                                                            </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										<div class="m_memberslatest">
+			<div class="element_smalltitle">
+			<div class="left"><!--  --></div>
+			<div class="right"><!--  --></div>
+			<div class="title"><div class="mask">Latest users</div></div>
+		</div>
+		
+	
+		<div class="user first">
+		<div  class="element_avatar simple small"><a  data-minitooltip="Blazing457H3X" data-minitooltip-userid="5966323" href="http://H3X-Z3.enjin.com/profile/5966323"><img src="https://s3.amazonaws.com/files.enjin.com/1224197/site_logo/small.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/5966323'  class='element_username'>Blazing457H3X</a>   <div class="registered">joined 20 hours ago</div>		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="Xytrum" data-minitooltip-userid="15464863" href="http://H3X-Z3.enjin.com/profile/15464863"><img src="https://cravatar.eu/helmavatar/Xytrum/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/15464863'  class='element_username'>Xytrum</a>   <div class="registered">joined Sat at 16:21</div>		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="fishfederation!! &gt;:" data-minitooltip-userid="18918692" href="http://H3X-Z3.enjin.com/profile/18918692"><img src="https://s3.amazonaws.com/files.enjin.com/1224197/site_logo/small.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/18918692'  class='element_username'>fishfederation!! &gt;:</a>   <div class="registered">joined Oct 29, 17</div>		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="CemnasH3X" data-minitooltip-userid="18905909" href="http://H3X-Z3.enjin.com/profile/18905909"><img src="https://s3.amazonaws.com/files.enjin.com/1224197/site_logo/small.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/18905909'  class='element_username'>CemnasH3X</a>   <div class="registered">joined Oct 24, 17</div>		</div>
+	</div>
+		<div class="user">
+		<div  class="element_avatar simple small"><a  data-minitooltip="Hexxel31" data-minitooltip-userid="18751627" href="http://H3X-Z3.enjin.com/profile/18751627"><img src="https://cravatar.eu/helmavatar/Hexxel31/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/small.png';" width="23" height="23"></a></div>		<div class="info">
+			<a href='/profile/18751627'  class='element_username'>Hexxel31</a>   <div class="registered">joined Oct 24, 17</div>		</div>
+	</div>
+	</div>										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+		            		      <div class=" container_spacer last">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		        <div class="middle"><!--  --></div>
+		      </div>
+                        <div class='clearing'><!--  --></div>
+		</div><!-- .section -->
+	</td>
+			<td class="section-divider"><div class="decorator-box"></div></td>
+				<td id="section-main"
+		class="section-holder section-width-large"
+		style=""
+		data-width="558"
+	>
+		<div class="section">		      <div class="fixed_height_elem container_spacer first">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header first last" data-container-id="46076156" data-start-collapsed="0">
+
+                    					  <div class="fixed_height_elem container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                        News                                    </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										
+<div class='m_news main' data-presetid="38332248" data-url="/home/m/38332248">
+
+            <div class="search-box" style="padding-top:12px;padding-bottom:8px;padding-left:16px">
+            <div class='input-text search-container'><input type="text" class="search-input"></div><div class='element_button'><div class='l'><!-- --></div><div class='r'><!-- --></div><input type="button" data-url="/home/m/38332248" value="Search"></div>
+        </div>
+        <div class="search-box-border-highlight"></div>
+    
+        <a href='/api/rss.php?preset_id=38332248' class='float-rss'></a>
+
+    
+        <div class='article first'>
+            <div class='article-body'>
+                <div class='article-body-content'>
+
+                    
+                        <div class='heading'>
+                                                            <div  class="element_avatar image medium"><div class="a_tl"></div><div class="a_tr"></div><div class="a_bl"></div><div class="a_br"></div><a  data-minitooltip="Hexxel" data-minitooltip-userid="13552992" href="http://H3X-Z3.enjin.com/profile/13552992"><img src="https://cravatar.eu/helmavatar/Hexxel/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>                            
+                            <h2 class='title'  >
+                                <a href='/home/m/38332248/article/4512347' rel='bookmark'>H3X/Z3 Kristmas 2v2 Tournament 2017</a>
+                            </h2>
+
+                            <div class='info' >
+                                <a href='/profile/13552992'  class='element_username admin tag-1729420'><span style="color:#ff0000">[Daddy]</span>&nbsp;Hexxel</a>   <span class="nameicons"><span class="icon_microtag" title="a" style="cursor: default; color: #000000; background-color: #FFFF00; border: 1px solid none; border-radius: 2px;">a</span><span class="icon_microtag" title="FOUNDER" style="cursor: default; color: #FFFFFF; background-color: #C20000; border: 1px solid none; border-radius: 2px;">FOUNDER</span><span class="icon_microtag" title="YouTube" style="cursor: default; color: #FFFFFF; background-color: #EB2323; border: 1px solid none; border-radius: 2px;">YouTube</span></span> posted <span class='date'>Oct 22, 17</span>
+                                
+
+                            </div>
+                        </div>
+
+                                                <div class="like-buttons">
+                                                            <span style="margin-right: 5px;"><a href="https://twitter.com/share" class="twitter-share-button" data-text="H3X/Z3 Kristmas 2v2 Tournament 2017" data-url="http://H3X-Z3.enjin.com/home/m/38332248/article/4512347" data-count="horizontal"></a></span>
+                            
+                                                            <span style="position: relative; top: -2px;"><fb:like href="http://H3X-Z3.enjin.com/home/m/38332248/article/4512347" send="false" layout="button_count" width="100" show_faces="false"></fb:like></span>
+                                                    </div>
+
+                        <div class='article-content'>
+                            <p><span style="font-size: 16pt;"></span></p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;"><span style="font-size: 24pt; font-family: terminal, monaco;"><span style="color: #ff0000; text-decoration: underline;">H3X/Z3</span></span></span><span style="font-size: 24pt; font-family: terminal, monaco;">&nbsp;</span><span style="text-decoration: underline;"><span style="font-size: 24pt; font-family: terminal, monaco;"><span style="color: #00ff00; text-decoration: underline;">Kristmas</span></span></span><span style="font-size: 24pt; font-family: terminal, monaco;"> </span><span style="text-decoration: underline;"><span style="font-size: 24pt; font-family: terminal, monaco;"><span style="color: #0000ff; text-decoration: underline;">Tournament</span></span></span><span style="font-size: 24pt; font-family: terminal, monaco;"> </span></strong></p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline; color: #ff6600;"><span style="font-size: 24pt; font-family: terminal, monaco;"><span style="text-decoration: underline;">2017</span></span></span></strong></p>
+<p><span style="font-size: 16pt;"></span></p>
+<p><span style="font-size: 16pt;">H3X/Z3 is hosting a 2v2 tournament! <span>We expect to have the tournament to happen in December, the date will be&nbsp;</span><strong>updated soon</strong><span><span>&nbsp;</span>once we know.&nbsp;</span>You <strong>MUST</strong> be in <strong>H3X</strong>, <strong>Z3</strong>, <strong>A1</strong>&nbsp;or the <strong>Hexxel Clan</strong> to be in this tournament. Your partner can be from any of those three listed clans. This is being posted early since we want to&nbsp;give you time to prepare and to find your partner.&nbsp;H3X/Z3 Staff will host this and it will be held in one of their MPS's. This tournament will also help us with Tier Promotions so make sure to do good. The score&nbsp;goes to first to 5. Once you lose you're out and the winner moves onto the next&nbsp;round.&nbsp;</span></p>
+<p><span style="font-size: 16pt;"></span></p>
+<p><span style="font-size: 16pt;"><span style="text-decoration: underline; color: #ff0000;"><strong>Update</strong></span>: People in the Hexxel clan can participate aswell</span></p>
+<p></p>
+<p><span style="font-size: 16pt;">To sign up for the 2v2 <strong>Kris</strong>tmas Tournament you must comment the following in this post,</span></p>
+<p></p>
+<p><span style="font-size: 16pt;"><span style="color: #ff0000;">1.</span> <em>IGN</em></span></p>
+<p><span style="font-size: 16pt;"><span style="color: #ff0000;">2.</span> <em>Your partner (If you don't have a partner write "N/A" for 2 and 3, you'll be set up with another person who doesn't have a partner)&nbsp;</em></span></p>
+<p><span style="font-size: 16pt;"><span style="color: #ff0000;">3.</span><em><span style="color: #ff0000;">&nbsp;</span>Name for your team (Type "N/A" if you don't have a partner but comment your team name when you've been partnered with one)&nbsp;</em></span></p>
+<p><span style="font-size: 16pt;"><span style="color: #ff0000;">4.</span>&nbsp;<em>Two map choices (Cookie Town will be a default map so don't choose that)</em></span></p>
+<p><span style="font-size: 16pt;"><em></em></span></p>
+<p><span style="font-size: 16pt;"><strong></strong>If you leave the clan before the tournament you can't compete.&nbsp;</span></p>
+<p></p>
+<p><span style="font-size: 16pt;">Have fun and&nbsp;good luck to everyone in this tournament! There will be a special award made similar to the one last year. For all the confusion I won't be in this tournament and won't be back till late 2018.&nbsp;</span></p>
+<p></p>
+<p><span style="font-size: 16pt;">Happy Hall<strong>oiv</strong>ween also!&nbsp;</span></p>                        </div>
+                        
+                            
+                            <div class='commentbox'>
+                                <div class='commentbox-body'>
+                                    <div class='commentbox-body-left'><!--  --></div><div class='commentbox-body-right'><!--  --></div>
+                                    <div class='commentbox-header-left'><!--  --></div><div class='commentbox-header-right'><!--  --></div>
+                                    <div class='commentbox-footer-left'><!--  --></div><div class='commentbox-footer-right'><!--  --></div>
+                                    <div class='commentbox-body-content'>
+
+
+                                        <div class='bubble'>
+                                            <a href='/home/m/38332248/article/4512347'>
+                                                <div class='big-number'>5</div>
+                                                <div class='comment-text'>comments</div>
+                                            </a>
+                                        </div>
+
+                                        <div class='comments'>
+                                                                                            <div class='comment first'>
+                                                                                                            <a href='/profile/18341051'  class='element_username'>iCareAboutH3X</a>                                                                                                          1 : iCareAboutH3X
+2 : koalaplayerA1
+3 : &amp;quot;The Italian Team&amp;quot;
+4 : Dusty Savanna &amp;amp; Besmap                                                </div>
+                                                                                            <div class='comment'>
+                                                                                                            <a href='/profile/16597317'  class='element_username tag-1826134 tag-1741316'>BarouzH3X</a>                                                                                                          1. BarouzH3X
+2. awesomemanH3X
+3. Nobody
+4. Painted Gardens &amp;amp; 1986                                                </div>
+                                                                                            <div class='comment last'>
+                                                                                                            <a href='/profile/16293484'  class='element_username tag-1767688'>fosterzillaH3X</a>                                                                                                          1. fosterzillaH3X
+2.N/A
+3 N/A
+4.Farms and Autumn Creeks                                                </div>
+                                                                                    </div><div class='clearing'><!--  --></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        
+                        <div class='article-footer'>
+
+                            
+                            
+                            
+                        </div>
+
+                    
+                </div>
+            </div>
+        </div><!-- .article -->
+
+    
+        <div class='article'>
+            <div class='article-body'>
+                <div class='article-body-content'>
+
+                    
+                        <div class='heading'>
+                                                            <div  class="element_avatar image medium"><div class="a_tl"></div><div class="a_tr"></div><div class="a_bl"></div><div class="a_br"></div><a  data-minitooltip="Hexxel" data-minitooltip-userid="13552992" href="http://H3X-Z3.enjin.com/profile/13552992"><img src="https://cravatar.eu/helmavatar/Hexxel/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>                            
+                            <h2 class='title'  >
+                                <a href='/home/m/38332248/article/4455152' rel='bookmark'>Big News</a>
+                            </h2>
+
+                            <div class='info' >
+                                <a href='/profile/13552992'  class='element_username admin tag-1729420'><span style="color:#ff0000">[Daddy]</span>&nbsp;Hexxel</a>   <span class="nameicons"><span class="icon_microtag" title="a" style="cursor: default; color: #000000; background-color: #FFFF00; border: 1px solid none; border-radius: 2px;">a</span><span class="icon_microtag" title="FOUNDER" style="cursor: default; color: #FFFFFF; background-color: #C20000; border: 1px solid none; border-radius: 2px;">FOUNDER</span><span class="icon_microtag" title="YouTube" style="cursor: default; color: #FFFFFF; background-color: #EB2323; border: 1px solid none; border-radius: 2px;">YouTube</span></span> posted <span class='date'>Sep 15, 17</span>
+                                
+
+                            </div>
+                        </div>
+
+                                                <div class="like-buttons">
+                                                            <span style="margin-right: 5px;"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Big News" data-url="http://H3X-Z3.enjin.com/home/m/38332248/article/4455152" data-count="horizontal"></a></span>
+                            
+                                                            <span style="position: relative; top: -2px;"><fb:like href="http://H3X-Z3.enjin.com/home/m/38332248/article/4455152" send="false" layout="button_count" width="100" show_faces="false"></fb:like></span>
+                                                    </div>
+
+                        <div class='article-content'>
+                            <p><span style="font-size: 16pt;">Due to many people not making it to Z3 since the expectations are high we've came up of a new tag for people to represent their H3X elite skills.</span></p>
+<p><span style="font-size: 16pt;">Introducing <span style="color: #00ffff;">emnasH3X</span> and <span style="color: #00ffff;">arouzH3X.</span></span></p>
+<p></p>
+<p><span style="font-size: 16pt;">How do I join emnasH3X or arouzH3X?&nbsp;</span></p>
+<p></p>
+<p><span style="font-size: 16pt;">To join emnasH3X you need to be Tier 3 and above, if you are you can add the emnasH3X leaders on Mineplex and contact them about it. They will set a date for a 1v1, if they think you're ready you'll be able to join emnasH3X.&nbsp;</span></p>
+<p><span style="text-decoration: underline; font-size: 16pt;">Leaders of emnasH3X</span></p>
+<p><span style="font-size: 16pt;">ZremnasH3X</span></p>
+<p><span style="font-size: 16pt;">SrajZ3</span></p>
+<p></p>
+<p></p>
+<p><span style="font-size: 16pt;">To join &nbsp;arouzH3X the same applies but you need to be Tier 4 and above.</span></p>
+<p></p>
+<p><span style="text-decoration: underline; font-size: 16pt;">Leaders of arouzH3X</span></p>
+<p></p>
+<p><span style="font-size: 16pt;">BarouzH3X</span></p>
+<p><span style="font-size: 16pt;">-</span></p>                        </div>
+                        
+                            
+                        
+                        <div class='article-footer'>
+
+                            
+                            
+                            
+                        </div>
+
+                    
+                </div>
+            </div>
+        </div><!-- .article -->
+
+    
+        <div class='article'>
+            <div class='article-body'>
+                <div class='article-body-content'>
+
+                    
+                        <div class='heading'>
+                                                            <div  class="element_avatar image medium"><div class="a_tl"></div><div class="a_tr"></div><div class="a_bl"></div><div class="a_br"></div><a  data-minitooltip="ihaveabigbootiZ3" data-minitooltip-userid="11897449" href="http://H3X-Z3.enjin.com/profile/11897449"><img src="https://cravatar.eu/helmavatar/ihaveabigbootiZ3/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>                            
+                            <h2 class='title'  >
+                                <a href='/home/m/38332248/article/4428981' rel='bookmark'>Hey Hey Heyyyyy</a>
+                            </h2>
+
+                            <div class='info' >
+                                <a href='/profile/11897449'  class='element_username admin tag-2049669'>ihaveabigbootiZ3</a>   <span class="nameicons"><span class="icon_microtag" title="a" style="cursor: default; color: #000000; background-color: #FFFF00; border: 1px solid none; border-radius: 2px;">a</span><span class="icon_microtag" title="CO-OWNER" style="cursor: default; color: #FFFFFF; background-color: #7A0000; border: 1px solid none; border-radius: 2px;">CO-OWNER</span><span class="icon_microtag" title="Donor" style="cursor: default; color: #FFFFFF; background-color: #00FF26; border: 1px solid none; border-radius: 2px;">Donor</span></span> posted <span class='date'>Sep 2, 17</span>
+                                
+
+                            </div>
+                        </div>
+
+                                                <div class="like-buttons">
+                                                            <span style="margin-right: 5px;"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Hey Hey Heyyyyy" data-url="http://H3X-Z3.enjin.com/home/m/38332248/article/4428981" data-count="horizontal"></a></span>
+                            
+                                                            <span style="position: relative; top: -2px;"><fb:like href="http://H3X-Z3.enjin.com/home/m/38332248/article/4428981" send="false" layout="button_count" width="100" show_faces="false"></fb:like></span>
+                                                    </div>
+
+                        <div class='article-content'>
+                            <p><span style="color: #00ccff;">The Main Aspects of the site are up and running! This Includes;</span></p>
+<p><span style="color: #00ccff;"><span style="color: #00ccff;">-Staff Page</span></span></p>
+<p><span style="color: #000000;"><span style="color: #00ccff;">-Applications</span></span></p>
+<p><span style="color: #000000;"><span style="color: #00ccff;">-Awards</span></span></p>
+<p><span style="color: #000000;"><span style="color: #00ccff;">-A New Training Page!</span></span></p>
+<p><span style="color: #000000;"><span style="color: #00ccff;">-Forums</span></span></p>
+<p><span style="color: #000000;"><span style="color: #00ccff;">-All Rosters</span></span></p>
+<p><span style="color: #000000;"><span style="color: #00ccff;">-A New Support Feature!</span></span></p>
+<p><span style="color: #00ccff;">Other parts will be added as we go along, but thank you for being so patient whilst we do this!</span></p>
+<p><span style="color: #00ccff;">~JewJew and the Staff Team</span></p>                        </div>
+                        
+                            
+                            <div class='commentbox'>
+                                <div class='commentbox-body'>
+                                    <div class='commentbox-body-left'><!--  --></div><div class='commentbox-body-right'><!--  --></div>
+                                    <div class='commentbox-header-left'><!--  --></div><div class='commentbox-header-right'><!--  --></div>
+                                    <div class='commentbox-footer-left'><!--  --></div><div class='commentbox-footer-right'><!--  --></div>
+                                    <div class='commentbox-body-content'>
+
+
+                                        <div class='bubble'>
+                                            <a href='/home/m/38332248/article/4428981'>
+                                                <div class='big-number'>2</div>
+                                                <div class='comment-text'>comments</div>
+                                            </a>
+                                        </div>
+
+                                        <div class='comments'>
+                                                                                            <div class='comment first'>
+                                                                                                            <a href='/profile/16419253'  class='element_username'>iJaw</a>                                                                                                          Dear staff team, please can i recieve my awards i posted like 5-7 months ago?                                                </div>
+                                                                                            <div class='comment last'>
+                                                                                                            <a href='/profile/16649026'  class='element_username'>BelnapBros</a>                                                                                                          Yaaaaasssss TYTYTY                                                </div>
+                                                                                    </div><div class='clearing'><!--  --></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        
+                        <div class='article-footer'>
+
+                            
+                            
+                            
+                        </div>
+
+                    
+                </div>
+            </div>
+        </div><!-- .article -->
+
+    
+        <div class='article'>
+            <div class='article-body'>
+                <div class='article-body-content'>
+
+                    
+                        <div class='heading'>
+                                                            <div  class="element_avatar image medium"><div class="a_tl"></div><div class="a_tr"></div><div class="a_bl"></div><div class="a_br"></div><a  data-minitooltip="RedNightDragonZ3" data-minitooltip-userid="10577595" href="http://H3X-Z3.enjin.com/profile/10577595"><img src="https://cravatar.eu/helmavatar/RedNightDragonZ3/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>                            
+                            <h2 class='title'  >
+                                <a href='/home/m/38332248/article/4209742' rel='bookmark'>May Promotions and Commotions!!!</a>
+                            </h2>
+
+                            <div class='info' >
+                                <a href='/profile/10577595'  class='element_username tag-1826134 tag-1741316'>RedNightDragonZ3</a>   posted <span class='date'>May 16, 17</span>
+                                
+
+                            </div>
+                        </div>
+
+                                                <div class="like-buttons">
+                                                            <span style="margin-right: 5px;"><a href="https://twitter.com/share" class="twitter-share-button" data-text="May Promotions and Commotions!!!" data-url="http://H3X-Z3.enjin.com/home/m/38332248/article/4209742" data-count="horizontal"></a></span>
+                            
+                                                            <span style="position: relative; top: -2px;"><fb:like href="http://H3X-Z3.enjin.com/home/m/38332248/article/4209742" send="false" layout="button_count" width="100" show_faces="false"></fb:like></span>
+                                                    </div>
+
+                        <div class='article-content'>
+                            <p></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;">Helloooooo everybody!!!!! Can you guess what time it is? ... probably... it is in the title... ANYWAYS!!! It is time for the promotion list!!!</span></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;">For any of you who are new, this is the list recognizing those who have advanced in tier. Those listed in the Tier 6 Promotions are now being promoted to tier 5 and so on. </span></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;">Tier 3 Promotions:</span></p>
+<p><span style="color: #ffffff; font-family: arial black,avant garde;">A1H3X</span></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;">Tier 4 Promotions:</span></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;"><span style="color: #ffffff;"><span style="font-weight: 400;">BobbH3X<br />NattanatorH3X<br /></span><span style="font-weight: 400;">YudoH3X</span></span><br /></span></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;">Tier 5 Promotions: </span></p>
+<p><span style="color: #ffffff; font-family: arial black,avant garde;">8BallerH3X<br />ArrogantFoolH3X<br />HalfLifeH3X<br />KhotatoTriH3X<br />MattH3X<br />MCM3911H3X<br />Nathan_H3X</span></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;">Tier 6 Promotions:</span></p>
+<p><span style="font-family: arial black,avant garde;"><span style="color: #ffffff;">MalH3X 4/2<br /> StudmasterH3X<br /> OmgItsBellaH3X<br /> SquashedMelunH3X<br /> Secours_H3X<br /> YerbMasterH3X</span><span style="color: #ff0000;"></span></span></p>
+<p><span style="font-family: arial black,avant garde;"><span style="color: #ff0000;">Please congratulate all of these hard-working people on achiving the next rank in their journey through H3X. </span><span style="color: #ff0000;"></span></span></p>
+<p><span style="color: #ff0000; font-family: arial black,avant garde;"></span></p>
+<p><span style="color: #ff0000;"><span style="font-family: arial black,avant garde;">Also, for those who may have noticed, we have removed the Bridges and Turf Wars branches. This is because neither was popular nor did we have qualified leaders to run them.</span> </span></p>                        </div>
+                        
+                            
+                            <div class='commentbox'>
+                                <div class='commentbox-body'>
+                                    <div class='commentbox-body-left'><!--  --></div><div class='commentbox-body-right'><!--  --></div>
+                                    <div class='commentbox-header-left'><!--  --></div><div class='commentbox-header-right'><!--  --></div>
+                                    <div class='commentbox-footer-left'><!--  --></div><div class='commentbox-footer-right'><!--  --></div>
+                                    <div class='commentbox-body-content'>
+
+
+                                        <div class='bubble'>
+                                            <a href='/home/m/38332248/article/4209742'>
+                                                <div class='big-number'>7</div>
+                                                <div class='comment-text'>comments</div>
+                                            </a>
+                                        </div>
+
+                                        <div class='comments'>
+                                                                                            <div class='comment first'>
+                                                                                                            <a href='/profile/12382403'  class='element_username tag-1767688'>xxrockin_out</a>                                                                                                          someone explain: how do promotions work? a year in this guild and im still confused lmao                                                </div>
+                                                                                            <div class='comment'>
+                                                                                                            <a href='/profile/16812485'  class='element_username tag-1767688'>FyreH3X</a>                                                                                                          I am sad... I haven&#039;t been promoted in like 3 months. :(                                                </div>
+                                                                                            <div class='comment last'>
+                                                                                                            <a href='/profile/16435320'  class='element_username'>Domino2011AP</a>                                                                                                          Grats!!                                                </div>
+                                                                                    </div><div class='clearing'><!--  --></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        
+                        <div class='article-footer'>
+
+                            
+                            
+                            
+                        </div>
+
+                    
+                </div>
+            </div>
+        </div><!-- .article -->
+
+    
+        <div class='article last'>
+            <div class='article-body'>
+                <div class='article-body-content'>
+
+                    
+                        <div class='heading'>
+                                                            <div  class="element_avatar image medium"><div class="a_tl"></div><div class="a_tr"></div><div class="a_bl"></div><div class="a_br"></div><a  data-minitooltip="A1Z3" data-minitooltip-userid="7953384" href="http://H3X-Z3.enjin.com/profile/7953384"><img src="https://cravatar.eu/helmavatar/A1Z3/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>                            
+                            <h2 class='title'  >
+                                <a href='/home/m/38332248/article/4210604' rel='bookmark'>Records #6</a>
+                            </h2>
+
+                            <div class='info' >
+                                <a href='/profile/7953384'  class='element_username admin tag-1826134 tag-1741306'>A1Z3</a>   <span class="nameicons"><span class="icon_microtag" title="a" style="cursor: default; color: #000000; background-color: #FFFF00; border: 1px solid none; border-radius: 2px;">a</span></span> posted <span class='date'>May 16, 17</span>
+                                
+
+                            </div>
+                        </div>
+
+                                                <div class="like-buttons">
+                                                            <span style="margin-right: 5px;"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Records #6" data-url="http://H3X-Z3.enjin.com/home/m/38332248/article/4210604" data-count="horizontal"></a></span>
+                            
+                                                            <span style="position: relative; top: -2px;"><fb:like href="http://H3X-Z3.enjin.com/home/m/38332248/article/4210604" send="false" layout="button_count" width="100" show_faces="false"></fb:like></span>
+                                                    </div>
+
+                        <div class='article-content'>
+                            <p><strong>Records For The Sixth Week</strong></p>
+<p><strong>Records</strong><br /><strong>Top 1v1er- 1v1Z3 (60)</strong><br /><strong>Most Wins- 1v1Z3 (16,500)</strong><br /><strong>Most Overall Kills- 1v1Z3 (65,200)</strong><br /><strong>Most Kills In One Round- 1v1Z3 (30)</strong><br /><strong>Best K/D Ratio- N/A</strong><br /><strong>Most Revived Allies- 1v1Z3 (7)</strong><br /><strong>Highest Rifle Level- 1v1Z3, SLG_H3X and DeathmasterH3X (100)</strong><br /><strong>Highest Shotgun Level- RedNightDrgonH3X and DeathmasterH3X (100)</strong><br /><strong>Highest Sniper Level- 1v1Z3 (82)</strong><br /><strong>Highest Amount Of PB Records- 1v1Z3 (1)</strong></p>
+<p><strong>To be on this list you MUST be an active member in the H3X/Z3 paintball community. All 1v1s for the Top 1v1er spot must consist of 1v1s that you have won 5-0, 5-1 or 5-2.</strong></p>
+<p><strong>In order to have the most pb records, your name must appear on the Mineplex Book of World Records as many times as you've claimed it to be. You MUST be an active member in the H3X/Z3 paintball community.</strong></p>
+<p><strong>Welcome to the industry where papa roasted has a god damn monopoly.</strong></p>                        </div>
+                        
+                            
+                            <div class='commentbox'>
+                                <div class='commentbox-body'>
+                                    <div class='commentbox-body-left'><!--  --></div><div class='commentbox-body-right'><!--  --></div>
+                                    <div class='commentbox-header-left'><!--  --></div><div class='commentbox-header-right'><!--  --></div>
+                                    <div class='commentbox-footer-left'><!--  --></div><div class='commentbox-footer-right'><!--  --></div>
+                                    <div class='commentbox-body-content'>
+
+
+                                        <div class='bubble'>
+                                            <a href='/home/m/38332248/article/4210604'>
+                                                <div class='big-number'>1</div>
+                                                <div class='comment-text'>comment</div>
+                                            </a>
+                                        </div>
+
+                                        <div class='comments'>
+                                                                                            <div class='comment first last'>
+                                                                                                            <a href='/profile/9346728'  class='element_username tag-1767688'>LA1D</a>                                                                                                          Good job everyone! I hope to get top sg level soon im very close!                                                </div>
+                                                                                    </div><div class='clearing'><!--  --></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        
+                        <div class='article-footer'>
+
+                            
+                            
+                            
+                        </div>
+
+                    
+                </div>
+            </div>
+        </div><!-- .article -->
+
+    
+            <div class='entries'>
+
+        <span class='next'>
+                            Newer <span class='arrow'>&raquo;</span>
+                        </span>
+
+            <span class='previous'>
+            <a href='/home/m/38332248/page/2'>                    <span class='arrow'>&laquo;</span> Older                    </a>        </span>
+
+
+            <div class='rss'><a href='/api/rss.php?preset_id=38332248'>Subscribe to RSS</a></div>
+        </div>
+
+    
+</div>										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class="fixed_height_elem container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+		            		      <div class="fixed_height_elem container_spacer last">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		        <div class="middle"><!--  --></div>
+		      </div>
+                        <div class='clearing'><!--  --></div>
+		</div><!-- .section -->
+	</td>
+			<td class="section-divider"><div class="decorator-box"></div></td>
+				<td id="section-right"
+		class="section-holder section-width-small"
+		style="width: 235px;"
+		data-width="235"
+	>
+		<div class="section">		      <div class=" container_spacer first">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header with-footer first" data-container-id="47827660" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                                                            </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										
+<div class='m_login loginform'>
+
+		
+	<form action='' method='post'>
+		<input type='hidden' name='m' value='38373343'>
+		<input type='hidden' name='do' value='login'>
+		
+					<div class='element_button'><div class='l'><!-- --></div><div class='r'><!-- --></div><input type='button' onclick="document.location.href='/login'" value="Login" tabindex='3'></div>
+			 
+			<span class='or'>or</span> <div class='element_button'><div class='l'><!-- --></div><div class='r'><!-- --></div><input type='button' value="Register" onClick='window.location = "/login/do/register";' tabindex='4'></div>
+						</form>
+</div>										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+				      <div class=" container_spacer">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header with-footer" data-container-id="54594919" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                                                            </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										<div class="m_membersonline">
+			<div class="element_smalltitle">
+			<div class="left"><!--  --></div>
+			<div class="right"><!--  --></div>
+			<div class="title"><div class="mask">Online users (0)</div></div>
+		</div>
+		
+	<div style='padding-left: 5px;'>No users online.	
+	<div class="featured">
+		</div>
+	
+		
+	</div>
+
+										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+				      <div class=" container_spacer">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		      </div><div class='clearing'><!--  --></div>
+
+									
+					<div class="container with-header with-footer last" data-container-id="47827662" data-start-collapsed="0">
+
+                    					  <div class=" container_header">
+					    <div class="left"></div>
+					    <div class="right"></div>
+					    					    <div class="title">
+							<span class="mask">
+								<div class="text">
+									<div class="header_text_text">
+										
+                                                                            </div>
+								</div>
+							</span>
+						</div><!-- .title -->
+					    					  </div>
+                    
+					<div class="container_body">
+														
+                                                      <div class="container_left"><!--  --></div>
+                            <div class="container_right"><!--  --></div>
+                            <div class="container_left_top"><!--  --></div>
+                            <div class="container_right_top"><!--  --></div>
+                            <div class="container_left_bottom"><!--  --></div>
+                            <div class="container_right_bottom"><!--  --></div>
+                         						  
+						  <div class="container_content container-minimized" style="display: none;" >
+						  	Container minimized. <a href="javascript:;">Expand</a>
+						  </div>
+					      <div class="container_content container-maximized"  >
+					      	<div class="container_inner_l"></div><div class="container_inner_r"></div><div class="container_inner_tl"></div><div class="container_inner_tr"></div><div class="container_inner_bl"></div><div class="container_inner_br"></div>					          <table class="container_table">
+					            <tr class="container_table_row">
+																				<td class="container_column leftmost rightmost" style="width: 100%">
+										<div class="module module_first module_last">
+										      <div class="module_content">
+										        <div class="module_content_wrap">
+										
+<div class='m_sitewall element_wall' id='sitewall-679950456'>
+	
+	<div class='posts'>
+		<div class='wall-post forum_thread first' data-post_id='31228163' data-timestamp='1511211092' data-post-type="forum_thread">
+	<a name='post15112110920031228163'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="BobbH3X" data-minitooltip-userid="14454874" href="http://H3X-Z3.enjin.com/profile/14454874"><img src="https://cravatar.eu/helmavatar/BobbH3X/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/14454874'  class='element_username tag-1742624'>BobbH3X</a>   <span class="nameicons"><span class="icon_microtag" title="YouTube" style="cursor: default; color: #FFFFFF; background-color: #EB2323; border: 1px solid none; border-radius: 2px;">YouTube</span></span>&thinsp;
+					created a new thread <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31228163&preset=38332249'>SUPER Paintball EP3: Minecon Earth</a> in the <a href='/ajax.php?s=redirect&cmd=forum-forum&preset=38332249&id=7135446'>General Discussion</a> forum
+
+					
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>8 hours ago</span>
+						<span class='comment-link'>
+							<span class='link'> &middot; <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31228163&preset=38332249'>0 Replies</a> &middot; 1 Views</span>
+						</span>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post user_joined' data-post_id='1224197-52470' data-timestamp='1511164564' data-post-type="user_joined">
+	<a name='post15111648000005966323'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="Blazing457H3X" data-minitooltip-userid="5966323" href="http://H3X-Z3.enjin.com/profile/5966323"><img src="https://s3.amazonaws.com/files.enjin.com/1224197/site_logo/medium.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/5966323'  class='element_username'>Blazing457H3X</a>  &thinsp; registered to <a href='http://H3X-Z3.enjin.com'>H3X and Z3 Clan</a>
+
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>20 hours ago</span>
+					</div>
+									</div>
+				<div class='comments'>
+	<div class='triangle'></div>
+	</div>			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post user_joined' data-post_id='1224197-52466' data-timestamp='1511022072' data-post-type="user_joined">
+	<a name='post15110496000015464863'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="Xytrum" data-minitooltip-userid="15464863" href="http://H3X-Z3.enjin.com/profile/15464863"><img src="https://cravatar.eu/helmavatar/Xytrum/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/15464863'  class='element_username'>Xytrum</a>  &thinsp; registered to <a href='http://H3X-Z3.enjin.com'>H3X and Z3 Clan</a>
+
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Sat at 16:21</span>
+					</div>
+									</div>
+				<div class='comments'>
+	<div class='triangle'></div>
+	</div>			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post forum_thread' data-post_id='31217798' data-timestamp='1511022291' data-post-type="forum_thread">
+	<a name='post15110222910031217798'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="Xytrum" data-minitooltip-userid="15464863" href="http://H3X-Z3.enjin.com/profile/15464863"><img src="https://cravatar.eu/helmavatar/Xytrum/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/15464863'  class='element_username'>Xytrum</a>  &thinsp;
+					created a new thread <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31217798&preset=38332249'>Well</a> in the <a href='/ajax.php?s=redirect&cmd=forum-forum&preset=38332249&id=7135446'>General Discussion</a> forum
+
+					
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Sat at 16:24</span>
+						<span class='comment-link'>
+							<span class='link'> &middot; <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31217798&preset=38332249'>1 Replies</a> &middot; 9 Views</span>
+						</span>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post forum_thread' data-post_id='31204843' data-timestamp='1510688305' data-post-type="forum_thread">
+	<a name='post15106883050031204843'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="BobbH3X" data-minitooltip-userid="14454874" href="http://H3X-Z3.enjin.com/profile/14454874"><img src="https://cravatar.eu/helmavatar/BobbH3X/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/14454874'  class='element_username tag-1742624'>BobbH3X</a>   <span class="nameicons"><span class="icon_microtag" title="YouTube" style="cursor: default; color: #FFFFFF; background-color: #EB2323; border: 1px solid none; border-radius: 2px;">YouTube</span></span>&thinsp;
+					created a new thread <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31204843&preset=38332249'>H3X does not mean Hacks</a> in the <a href='/ajax.php?s=redirect&cmd=forum-forum&preset=38332249&id=7135446'>General Discussion</a> forum
+
+					
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Tue at 19:38</span>
+						<span class='comment-link'>
+							<span class='link'> &middot; <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31204843&preset=38332249'>2 Replies</a> &middot; 16 Views</span>
+						</span>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post forum_thread' data-post_id='31193950' data-timestamp='1510441208' data-post-type="forum_thread">
+	<a name='post15104412080031193950'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="BobbH3X" data-minitooltip-userid="14454874" href="http://H3X-Z3.enjin.com/profile/14454874"><img src="https://cravatar.eu/helmavatar/BobbH3X/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/14454874'  class='element_username tag-1742624'>BobbH3X</a>   <span class="nameicons"><span class="icon_microtag" title="YouTube" style="cursor: default; color: #FFFFFF; background-color: #EB2323; border: 1px solid none; border-radius: 2px;">YouTube</span></span>&thinsp;
+					created a new thread <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31193950&preset=38332249'>Revamped Paintball series</a> in the <a href='/ajax.php?s=redirect&cmd=forum-forum&preset=38332249&id=7135446'>General Discussion</a> forum
+
+					
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Nov 11, 17</span>
+						<span class='comment-link'>
+							<span class='link'> &middot; <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31193950&preset=38332249'>2 Replies</a> &middot; 14 Views</span>
+						</span>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post trialpay_plan' data-post_id='1224197-34943' data-timestamp='1509553362' data-post-type="trialpay_plan">
+	<a name='post15095533620001224197'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="ihaveabigbootiZ3" data-minitooltip-userid="11897449" href="http://H3X-Z3.enjin.com/profile/11897449"><img src="https://cravatar.eu/helmavatar/ihaveabigbootiZ3/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/11897449'  class='element_username tag-2049669'>ihaveabigbootiZ3</a>   <span class="nameicons"><span class="icon_microtag" title="CO-OWNER" style="cursor: default; color: #FFFFFF; background-color: #7A0000; border: 1px solid none; border-radius: 2px;">CO-OWNER</span><span class="icon_microtag" title="Donor" style="cursor: default; color: #FFFFFF; background-color: #00FF26; border: 1px solid none; border-radius: 2px;">Donor</span></span>&thinsp; added <b>30 Ultimate</b> days to <a href='http://H3X-Z3.enjin.com'>H3X and Z3 Clan</a>
+
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Nov 1, 17</span>
+					</div>
+									</div>
+				<div class='comments'>
+	<div class='triangle'></div>
+	</div>			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post user_joined' data-post_id='1224197-52406' data-timestamp='1509302777' data-post-type="user_joined">
+	<a name='post15093216000018918692'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="fishfederation!! &gt;:" data-minitooltip-userid="18918692" href="http://H3X-Z3.enjin.com/profile/18918692"><img src="https://s3.amazonaws.com/files.enjin.com/1224197/site_logo/medium.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/18918692'  class='element_username'>fishfederation!! &gt;:</a>  &thinsp; registered to <a href='http://H3X-Z3.enjin.com'>H3X and Z3 Clan</a>
+
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Oct 29, 17</span>
+					</div>
+									</div>
+				<div class='comments'>
+	<div class='triangle'></div>
+	</div>			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post forum_thread' data-post_id='31136430' data-timestamp='1509145248' data-post-type="forum_thread">
+	<a name='post15091452480031136430'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="iJaw" data-minitooltip-userid="16419253" href="http://H3X-Z3.enjin.com/profile/16419253"><img src="https://cravatar.eu/helmavatar/iJaw/74.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/16419253'  class='element_username'>iJaw</a>  &thinsp;
+					created a new thread <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31136430&preset=38332249'>Hey There!</a> in the <a href='/ajax.php?s=redirect&cmd=forum-forum&preset=38332249&id=7135446'>General Discussion</a> forum
+
+					
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Oct 27, 17</span>
+						<span class='comment-link'>
+							<span class='link'> &middot; <a href='/ajax.php?s=redirect&cmd=forum-thread&id=31136430&preset=38332249'>4 Replies</a> &middot; 48 Views</span>
+						</span>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class='wall-post user_joined' data-post_id='1224197-52391' data-timestamp='1508871822' data-post-type="user_joined">
+	<a name='post15088896000018905909'></a>
+	<table>
+		<tr>
+			<td class='avatar'>
+                <div  class="element_avatar simple medium"><a  data-minitooltip="CemnasH3X" data-minitooltip-userid="18905909" href="http://H3X-Z3.enjin.com/profile/18905909"><img src="https://s3.amazonaws.com/files.enjin.com/1224197/site_logo/medium.png" onerror="this.src='https://resources.enjin.com/profile/images/avatar/medium.png';" width="43" height="43"></a></div>            </td>
+			<td class='post'>
+				<div class='post-content'>
+					<a href='/profile/18905909'  class='element_username'>CemnasH3X</a>  &thinsp; registered to <a href='http://H3X-Z3.enjin.com'>H3X and Z3 Clan</a>
+
+					<div class='footer'>
+						<div class='status-icon'></div>
+						<span class='posted'>Oct 24, 17</span>
+					</div>
+									</div>
+				<div class='comments'>
+	<div class='triangle'></div>
+	</div>			</td>
+		</tr>
+	</table>
+</div>
+	</div>
+	<a class='wall-viewmore visible' href='javascript:void(0);' onclick='Enjin_Site_Wall.viewMorePosts(this);'>View more posts...</a>
+</div>
+										        </div>
+										      </div><!-- module_content -->
+
+										
+
+										</div><!-- .module -->									</td>
+					            </tr>
+					          </table>
+					      </div><!-- .container_content -->
+					  </div><!-- .container_body -->
+
+                                              <div class=" container_footer">
+                            <div class="left"><!--  --></div>
+                            <div class="right"><!--  --></div>
+                                                    </div>
+                      
+					</div><!-- .container -->
+				
+
+
+		            		      <div class=" container_spacer last">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		        <div class="middle"><!--  --></div>
+		      </div>
+                        <div class='clearing'><!--  --></div>
+		</div><!-- .section -->
+	</td>
+		<td class="section-border"><div class="decorator-box"></div></td>
+	</tr>
+</table><!-- .section-collection -->
+</div><!-- -->
+	<div class="fixed_height_elem"><table class="section-collection"><tr class="top">
+			<td class="section-border"><div class="decorator-box"></div></td>
+				<td id="section-footer"
+		class="section-holder section-width-large"
+		style=""
+		data-width="1030"
+	>
+		<div class="section">            		      <div class=" container_spacer last">
+		        <div class="left"><!--  --></div>
+		        <div class="right"><!--  --></div>
+		        <div class="middle"><!--  --></div>
+		      </div>
+                        <div class='clearing'><!--  --></div>
+		</div><!-- .section -->
+	</td>
+		<td class="section-border"><div class="decorator-box"></div></td>
+	</tr>
+</table><!-- .section-collection -->
+</div><!-- -->
+	
+
+		</div>
+
+		<div class="fixed_height_elem" id="page-footer">
+							<div class="left">
+					<a href='https://www.enjin.com/'>
+						Clan website					</a>
+					by
+					<a href="https://www.enjin.com/">
+						<img src="https://resources.enjin.com/1465083537/themes/core/images/efooter.png" alt="guild hosting" title="enjin">
+					</a>
+				</div>
+				<div class="right">
+					&copy; 2017 Enjin				</div>
+					</div>
+
+  </div>
+</div>
+
+
+
+
+
+</div></div>
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {	
+	
+	Enjin_Core.Announcements.init([]);
+	Enjin_Core.Reminders.init([]);
+});
+</script>
+<div id="site-announcements">
+	<a href="#">
+		<i class="icon-warning-sign icon"></i>
+		<span class="ann-tray-text"><span class="amount"></span> <span class="singular">Notice</span><span class="plural">Notices</span></span>
+	</a>
+	<div class="site-announcement">
+		<div class="title-bar">
+			<div class="title ann-title"></div>
+			<div class="close-wrapper"><a href="#" onclick="Enjin_Core.Announcements.close(true);return false;"><div class="close"></div></a></div>
+		</div>	
+		<div class="content"></div>
+		
+		<div class="nav-bar nav-bar-bottom">
+			<div class="nav">
+				<div class="announcements-nav">
+					<div class="element_button" onclick="Enjin_Core.Announcements.prev();return false;">
+	                    <div class="l"><!-- --></div>
+	                    <div class="r"><!-- --></div>
+	                    <input type="button" value="Prev" onclick="">
+	                </div>
+	                <div class="element_button" onclick="Enjin_Core.Announcements.next();return false;">
+	                    <div class="l"><!-- --></div>
+	                    <div class="r"><!-- --></div>
+	                    <input type="button" value="Next" onclick="">
+	                </div>
+					<div class="title title-bottom">Announcement <span class="index"></span> of <span class="total"></span></div>
+				</div>
+				
+				<div class="element_button btn-delete-ann">
+				    <div class="l"><!-- --></div>
+				    <div class="r"><!-- --></div>
+				    <input type="button" value="Delete Announcement" />
+				</div>
+				<div class="element_button btn-agree-terms">
+				    <div class="l"><!-- --></div>
+				    <div class="r"><!-- --></div>
+				    <input type="button" value="I Agree to the Terms" />
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="border"></div>
+</div>
+
+
+<div id="announcement-popup" class="element_popup element_popup_core element_popup_window warning-issued-popup" style="z-index: 20000; display: none;">
+    <div class="inner window-frame">
+        <div class="popup_window_title">
+        	<span class="title-text"></span>
+        	<div class="close-wrapper btn-delete-ann-x">
+        		<a href="#"><div class="close"></div></a>
+        	</div>
+        </div>
+        <div class="content">	        
+        	<div class="announcement-text">
+	        	
+        	</div>
+        	<div class="controls">
+	        	<div class="element_button prev"><div class="l"><!-- --></div><div class="r"><!-- --></div><input type="button" value="Prev" onclick=""></div>
+		        <div class="element_button next"><div class="l"><!-- --></div><div class="r"><!-- --></div><input type="button" value="Next" onclick=""></div>
+				
+				<div class="title title-bottom"><span class="index">1</span> of <span class="total">4</span> Announcement</div>
+
+	        	<div class="element_button btn-delete-ann"><div class="l"><!-- --></div><div class="r"><!-- --></div><input type="button" value="Delete Announcement"></div>
+		        <div class="element_button btn-agree"><div class="l"><!-- --></div><div class="r"><!-- --></div><input type="button" value=""></div>
+			</div>
+        </div>
+    </div>
+</div>
+<div class="announcement-canvas-separator">&nbsp;</div>
+<!-- 0.282s -->
+<!-- pusher part -->
+
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script><script type="text/javascript">var recaptcha_publickey = "6LcLBBwUAAAAABpqgDjBkM0Ixb_WC8MJdAbylruG";</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-e2f9QTuI7ynec"
+};
+</script>
+<script type="text/javascript" src="https://secure.quantserve.com/quant.js" async defer></script>
+<noscript>
+<img src="https://pixel.quantserve.com/pixel/p-e2f9QTuI7ynec.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+<!-- Load social button for all of Enjin -->
+<div id="fb-root"></div>
+<script>
+	$(window).load(function() {
+		$.getScript("https://resources.enjin.com/1509365610/themes/core/js/social.js");
+	});
+</script>
+
+<!-- web5.enjin.com -->
+
+
+
+	
+
+	
+	
+
+<!-- React \ -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser-polyfill.min.js"></script>
+    <script type="text/javascript" src="https://resources.enjin.com/1510770970/platform/react.js"></script>
+<!-- / React -->
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=456576048';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+
+</html>
